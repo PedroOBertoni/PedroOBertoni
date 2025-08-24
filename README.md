@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&theme=synthwave&hide_border=true&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
 </p>
 
 ---
