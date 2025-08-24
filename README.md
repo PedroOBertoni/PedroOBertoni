@@ -61,6 +61,6 @@
 
 ## 📊 Atividade no GitHub
 
-![Snake animation](https://github.com/PedroOBertoni/PedroOBertoni/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/PedroOBertoni/PedroOBertoni/output/github-contribution-grid-snake.svg)
 
 
