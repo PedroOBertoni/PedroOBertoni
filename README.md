@@ -1,4 +1,4 @@
-### 👤 **Sobre Mim**
+## 👤 Sobre Mim
 
 🚀 De suporte a protagonista em tecnologia: sou Pedro Bertoni, desenvolvedor de software em formação e analista de suporte, apaixonado por transformar dados e código em soluções inteligentes.
 
@@ -10,16 +10,16 @@
 
 🤝 Acredito que tecnologia não é apenas código, mas conexão entre pessoas, processos e resultados. É nesse ponto de encontro que quero estar.
 
----
-### 📈 **Estatísticas do GitHub**
+
+## 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
 </p>
 
----
-### 💻 **Habilidades e Tecnologias**
+
+## 💻 Habilidades e Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -40,27 +40,26 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-### 📧 Contato
+
+## 📧 Contato
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bertoni)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroolivbertoni@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516994171005)
+  <a href="https://www.linkedin.com/in/pedro-bertoni">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pedroolivbertoni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5516994171005">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://pedro-bertoni-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-gray?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
----
-### 📧 **Contato**
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bertoni)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroolivbertoni@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516994171005)
-</p>
+## 📊 Atividade no GitHub
 
----
-### 📊 Atividade no GitHub
+![Snake animation](https://github.com/PedroOBertoni/PedroOBertoni/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PedroOBertoni&theme=dark&hide_border=true&border_radius=4.5" alt="GitHub Streak" />
-</p>
