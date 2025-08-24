@@ -10,6 +10,7 @@
     </tr>
   </table>
 </p>
+
 ---
 ### 💻 Habilidades e Tecnologias
 
