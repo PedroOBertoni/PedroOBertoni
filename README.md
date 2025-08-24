@@ -1,9 +1,25 @@
+### 👤 **Sobre Mim**
+
+🚀 De suporte a protagonista em tecnologia: sou Pedro Bertoni, desenvolvedor de software em formação e analista de suporte, apaixonado por transformar dados e código em soluções inteligentes.
+
+💡 Minha experiência combina o melhor dos dois mundos: infraestrutura corporativa e desenvolvimento. Atuei em bancos de dados robustos como **Oracle** e **PostgreSQL**, criei funções e automações em SQL, e desenvolvi soluções web utilizando **C#**, **.NET**, **Java**, **JavaScript** e **Node.js**.
+
+🔍 Essa vivência me deu algo raro: visão de processos ponta a ponta — consigo entender como a TI impacta diretamente o negócio, traduzindo necessidades complexas em sistemas eficientes e escaláveis.
+
+📈 Estou em constante evolução, cursando Engenharia de Software na Uni-FACEF e me aprofundando em tecnologias modernas para criar impacto real em projetos. Meu objetivo é crescer como desenvolvedor full stack e contribuir em times que valorizam inovação, aprendizado contínuo e entrega de valor.
+
+🤝 Acredito que tecnologia não é apenas código, mas conexão entre pessoas, processos e resultados. É nesse ponto de encontro que quero estar.
+
+---
+### 📈 **Estatísticas do GitHub**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&exclude_repo=My_Portfolio&show_stats=true" alt="Estatísticas e Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
 </p>
 
 ---
-### 💻 Habilidades e Tecnologias
+### 💻 **Habilidades e Tecnologias**
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -25,10 +41,26 @@
 </p>
 
 ---
-### 📧 Contato
+### 📄 **Currículo**
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1daaYSu5FO_ryMXXvHr4XR_tbYEkrcjEI/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-Download-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Link para o Currículo" />
+  </a>
+</p>
+
+---
+### 📧 **Contato**
 
 <p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bertoni)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroolivbertoni@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516994171005)
+</p>
+
+---
+### 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PedroOBertoni&theme=dark&hide_border=true&border_radius=4.5" alt="GitHub Streak" />
 </p>
