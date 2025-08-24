@@ -1,14 +1,6 @@
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&theme=dark&hide_border=true&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&theme=dark&hide_border=true&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
 </p>
 
 ---
