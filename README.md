@@ -40,6 +40,13 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+### 📄 Currículo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1daaYSu5FO_ryMXXvHr4XR_tbYEkrcjEI/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-Download-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Link para o Currículo" />
+  </a>
+</p>
 
 ## 📧 Contato
 
@@ -59,8 +66,6 @@
 </p>
 
 
-## 📊 Atividade no GitHub
 
-![snake gif](https://raw.githubusercontent.com/PedroOBertoni/PedroOBertoni/output/github-contribution-grid-snake.svg)
 
 
