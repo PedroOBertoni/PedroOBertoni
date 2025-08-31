@@ -16,7 +16,7 @@ Desenvolvedor de Software
 
 🤝 Acredito que tecnologia não é apenas código, mas conexão entre pessoas, processos e resultados. É nesse ponto de encontro que quero estar.
 
-## Tecnologias
+## Habilidades e Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
