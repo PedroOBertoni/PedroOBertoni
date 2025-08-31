@@ -1,8 +1,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Pedro Bertoni
 ==================================================================================================================================================
 
-Desenvolvedor de Software
--------------------------
+### Desenvolvedor de Software | Aluno do 4º Semestre de Engenharia de Software na Uni-FACEF | Analista de Suporte na Jussara
 
 ## Sobre mim
 
