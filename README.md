@@ -20,9 +20,26 @@ Desenvolvedor de Software
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,prisma,py,wordpress,html,css,react,tailwind,mysql,postgres,git,vscode,visualstudio,androidstudio,idea,grafana" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,prisma,py,wordpress,html,css,react,tailwind,mysql,postgres,github,git,vscode,visualstudio,androidstudio,idea,grafana" />
   </a>
 </p>
+
+<div align="center">
+
+<table>
+<td align="left">
+
+### 🛠️ Tecnologias que utilizo  
+**Linguagens & Frameworks:** C#, .NET, .NET CORE, ASP.NET MVC, Java, Spring, JavaScript, TypeScript, Node.js, Python  
+**Frontend:** HTML, CSS, React, Tailwind CSS, WordPress  
+**Banco de Dados:** Oracle, MySQL, PostgreSQL, Prisma ORM  
+**Ferramentas & IDEs:** Github, Git, VS Code, Visual Studio, Android Studio, IntelliJ IDEA  
+**Outros:** Grafana  
+
+</td>
+</table>
+
+</div>
 
 ## 📄 Currículo
 
