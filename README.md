@@ -69,6 +69,6 @@ Olá, Meu nome é Pedro Bertoni ![](https://user-images.githubusercontent.com/18
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&exclude_repo=My_Portfolio" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroOBertoni&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&cache_seconds=30" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOBertoni&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&exclude_repo=My_Portfolio&hide=html,css,jupyter%20notebook&cache_seconds=30" alt="Linguagens mais usadas" />
 </p>
